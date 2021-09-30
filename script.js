@@ -18,6 +18,8 @@ btn.addEventListener('click', function(){
 
 });
 
+
+
 function getRamdom(){
  
 

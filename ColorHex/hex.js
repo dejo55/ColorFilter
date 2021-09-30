@@ -13,7 +13,10 @@ btn.addEventListener('click',function(){
         hexNum += hex[getRam()];
 
      
-    };
+    }
+    
+
+    
   
 document.body.style.backgroundColor=hexNum;
 
